@@ -50,9 +50,9 @@
    Returns the final drafted answer.
 
 🎯 Summary
-   -The system creates a dual-agent architecture where:
-   -The first agent gathers detailed online information.
-   -The second agent drafts a well-organized, human-readable final answer.
-   -LangGraph organizes the workflow between the agents.
-   -Tavily API enables real-time research.
--Together AI API helps in high-quality answer drafting.
+   The system creates a dual-agent architecture where:
+   1.The first agent gathers detailed online information.
+   2.The second agent drafts a well-organized, human-readable final answer.
+   3.LangGraph organizes the workflow between the agents.
+   4.Tavily API enables real-time research.
+   5.Together AI API helps in high-quality answer drafting.
